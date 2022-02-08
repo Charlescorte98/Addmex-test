@@ -1,6 +1,6 @@
 <?php   
 
-    $destino = "atlantis.tecno.advanced@gmail.com";
+    $destino = "doctor.perks98@gmail.com";
 
 if (isset($_POST['enviar'])) {
     if (!empty($_POST['name']) && ($_POST['email']) && ($_POST['celular']) && ($_POST['msg'])) {
